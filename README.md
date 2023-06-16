@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://oumai.io)
+<a href="https://oumai.io">
+ <img src="https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png" alt="MasterHead">
+
+</a>
 
 <h1 align="center">Hi 👋, I'm Oumaima</h1>
 <h3 align="center">Software engineer student</h3>
