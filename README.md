@@ -7,7 +7,7 @@
 <h3 align="center">AI & Software Engineer | Master's Student in Data Science</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://giphy.com/gifs/computer-deskheads-nft-wHvVfzcUJHYS8ldieb" />
+  <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZzczlpcHpka2d4Nnl3bWkzdTM4ajg4OG1jbGlrMTE4ZDU4dm04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wHvVfzcUJHYS8ldieb/giphy.gif" />
 </p>
 
 <p align="center">
