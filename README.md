@@ -1,5 +1,5 @@
 <a href="https://oumai.io">
-  <img src="https://images.unsplash.com/photo-1531497865143-0c13a4c303c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNjA3fDB8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwZGF0YSUyMG5ldHdvcmt8ZW58MHx8fHwxNjg4NDQxNzE1&ixlib=rb-4.0.3&q=80&w=1280" alt="MasterHead" width="100%" />
+  <img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme" alt="MasterHead" width="100%" />
 </a>
 
 
@@ -7,7 +7,7 @@
 <h3 align="center">AI & Software Engineer | Master's Student in Data Science</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" />
+  <img alt="Coding" width="400" src="https://giphy.com/gifs/computer-deskheads-nft-wHvVfzcUJHYS8ldieb" />
 </p>
 
 <p align="center">
