@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/oumaima-o-5009741b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/oumas3" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://kaggle.com/oumas3" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
@@ -40,9 +39,9 @@
 
 | Project | Description | GitHub / PDF |
 |---------|-------------|--------------|
-| **Hybrid CVAE + DDPM for Plant Disease Classification** | Generative + classification pipeline for plant disease images; metrics: FID, PSNR, SSIM | [GitHub](https://github.com/oumas3/PlantDisease_Hybrid_CVAE_DDPM) |
+| **Hybrid CVAE + DDPM for Plant Disease Classification** | Generative + classification pipeline for plant disease images; metrics: FID, PSNR, SSIM | [GitHub](https://github.com/oumas3/CVAE_DDPM_PLANT_IDENTIFICATION) |
 | **Adversarial Attacks on TD-SV** | Embedding-level adversarial attacks on speaker verification (ECAPA-TDNN & WavLM) | [GitHub](https://github.com/oumas3/TDSV_SYSTEMS_ECAPA_WAVLM) |
-| **Scientific Article Summarizer** | Web app using NLP (T5/BART) for automatic summarization | [GitHub](https://github.com/oumas3/Scientific-Article-Summarizer) |
+| **Scientific Article Summarizer** | Web app using NLP (T5/BART) for automatic summarization | [GitHub](https://github.com/oumas3/emotion_imp) |
 
 ---
 
@@ -64,9 +63,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumas3&show_icons=true&locale=en&count_private=true" alt="GitHub Stats"/>
-</p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumas3" alt="GitHub Streak"/>
 </p>
