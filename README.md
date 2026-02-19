@@ -1,5 +1,5 @@
 <a href="https://oumai.io">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhvcWI3aHZna294MnB6cjA1c204dHl3Znp1aGZyNDhqaGV0b2l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif" alt="MasterHead" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHh0dmNlNDQ3aHJuMmhsZm53YmJ3aDMyMnE3emhpNmE1cnk0d3pucSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UcQSokPVOjz1eBX9G2/giphy.gif" alt="MasterHead" width="50%" />
 </a>
 
 
@@ -7,7 +7,7 @@
 <h3 align="center">AI & Software Engineer | Master's Student in Data Science</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZzczlpcHpka2d4Nnl3bWkzdTM4ajg4OG1jbGlrMTE4ZDU4dm04eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wHvVfzcUJHYS8ldieb/giphy.gif" />
+  <img alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" />
 </p>
 
 <p align="center">
