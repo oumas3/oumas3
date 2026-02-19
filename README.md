@@ -39,6 +39,8 @@
 | **Hybrid CVAE + DDPM for Plant Disease Classification** | Generative + classification pipeline for plant disease images | Python, PyTorch, CVAE, DDPM | [GitHub](https://github.com/oumas3/CVAE_DDPM_PLANT_IDENTIFICATION) |
 | **Adversarial Attacks on TD-SV** | Embedding-level attacks on speaker verification systems | Python, PyTorch, ECAPA-TDNN, WavLM | [GitHub](https://github.com/oumas3/TDSV_SYSTEMS_ECAPA_WAVLM) |
 | **Scientific Article Summarizer** | Automatic summarization of scientific articles | Python, Flask, NLP (T5/BART) | [GitHub](https://github.com/oumas3/emotion_imp) |
+| **Siamese Network for Facial Emotion Recognition** | Deep metric learning framework for facial emotion recognition using Siamese architecture | Python, PyTorch, CNN, SNN, Metric Learning | [GitHub](https://github.com/oumas3/siamese_net_implementation) |
+
 
 ---
 
