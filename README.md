@@ -1,5 +1,7 @@
 <a href="https://oumai.io">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHh0dmNlNDQ3aHJuMmhsZm53YmJ3aDMyMnE3emhpNmE1cnk0d3pucSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UcQSokPVOjz1eBX9G2/giphy.gif" alt="MasterHead" width="50%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHh0dmNlNDQ3aHJuMmhsZm53YmJ3aDMyMnE3emhpNmE1cnk0d3pucSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UcQSokPVOjz1eBX9G2/giphy.gif" 
+       alt="MasterHead" 
+       style="width: 100%; max-height: 350px; object-fit: cover;" />
 </a>
 
 
