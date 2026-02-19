@@ -61,6 +61,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumas3" alt="GitHub Streak"/>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumas3&layout=compact" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumas3&layout=compact" alt="Top Languages" width="90%" />
+</div>
