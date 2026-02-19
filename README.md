@@ -1,5 +1,5 @@
 <a href="https://oumai.io">
-  <img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme" alt="MasterHead" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhvcWI3aHZna294MnB6cjA1c204dHl3Znp1aGZyNDhqaGV0b2l1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif" alt="MasterHead" width="100%" />
 </a>
 
 
