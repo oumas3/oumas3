@@ -1,6 +1,7 @@
 <a href="https://oumai.io">
-  <img src="https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png" alt="MasterHead" />
+  <img src="https://images.unsplash.com/photo-1531497865143-0c13a4c303c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNjA3fDB8MHwxfHNlYXJjaHwxfHx0ZWNoJTIwZGF0YSUyMG5ldHdvcmt8ZW58MHx8fHwxNjg4NDQxNzE1&ixlib=rb-4.0.3&q=80&w=1280" alt="MasterHead" width="100%" />
 </a>
+
 
 <h1 align="center">Hi 👋, I'm Oumaima Ouayres</h1>
 <h3 align="center">AI & Software Engineer | Master's Student in Data Science</h3>
