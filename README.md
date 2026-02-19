@@ -6,6 +6,9 @@
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" alt="Banner" width="100%"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oumas3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/oumaima-o-5009741b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
