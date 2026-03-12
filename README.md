@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=180&amp;section=header&amp;text=Oumaima%20Ouayres&amp;fontSize=42&amp;fontColor=fff&amp;fontAlignY=38&amp;desc=AI%20%26%20Software%20Engineer%20%7C%20Data%20Science%20Master%27s%20Student&amp;descAlignY=58&amp;descSize=16&amp;animation=twinkling" width="100%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="320px"/>
 
-<br/>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="280px"/>
+<h1>Oumaima Ouayres</h1>
+<h3>🌸 AI & Software Engineer | Master's Student in Data Science 🌸</h3>
 
 </div>
 
@@ -162,5 +161,5 @@ Deep metric learning for facial emotion recognition
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=100&amp;section=footer" width="100%"/>
+  <i>✨ Thanks for visiting! Let's build something amazing together 🌸</i>
 </div>
