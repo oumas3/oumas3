@@ -1,6 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Oumaima%20Ouayres&fontSize=42&fontColor=fff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Data%20Science%20Master's%20Student&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
+<br/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="280px"/>
 
 </div>
 
@@ -32,8 +36,6 @@
 
 ---
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhsZGw4bTJ0cjY4bHMwOG5rM2tiZHc4dTMyem9wM3J6dHQyNnEycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="300px"/>
-
 ### ✨ About Me
 
 ```python
@@ -47,8 +49,6 @@ class Oumaima:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing 🌸")
 ```
-
-<br clear="right"/>
 
 ---
 
