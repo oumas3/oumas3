@@ -53,7 +53,6 @@ class Oumaima:
 
 ### 🌸 What I'm Up To
 
-🔭 &nbsp;Building a **Fleet System Management** platform for scalable operations  
 🧠 &nbsp;Researching **ML/DL** applications for real-world problems  
 🌱 &nbsp;Diving deeper into **Transformers, Diffusion Models & NLP**  
 💌 &nbsp;Always open to collaborating on **AI, NLP, or Web App** projects  
