@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Oumaima%20Ouayres&fontSize=42&fontColor=fff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Data%20Science%20Master's%20Student&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=180&amp;section=header&amp;text=Oumaima%20Ouayres&amp;fontSize=42&amp;fontColor=fff&amp;fontAlignY=38&amp;desc=AI%20%26%20Software%20Engineer%20%7C%20Data%20Science%20Master%27s%20Student&amp;descAlignY=58&amp;descSize=16&amp;animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -148,19 +148,19 @@ Deep metric learning for facial emotion recognition
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumas3&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=f48fb1&icon_color=f06292&text_color=fce4ec" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oumas3&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=f48fb1&amp;icon_color=f06292&amp;text_color=fce4ec" width="48%"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumas3&theme=radical&hide_border=true&background=0d0d0d&ring=f48fb1&fire=f06292&currStreakLabel=f48fb1" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumas3&amp;theme=radical&amp;hide_border=true&amp;background=0d0d0d&amp;ring=f48fb1&amp;fire=f06292&amp;currStreakLabel=f48fb1" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumas3&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=f48fb1&text_color=fce4ec" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumas3&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=f48fb1&amp;text_color=fce4ec" width="40%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=100&amp;section=footer" width="100%"/>
 </div>
