@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Oumaima%20Ouayres&fontSize=42&fontColor=fff&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Data%20Science%20Master's%20Student&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
+
 
 </div>
 
