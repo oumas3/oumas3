@@ -193,6 +193,5 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 
 I'm open to **research collaborations, PhD opportunities, and applied AI projects**.
 
-<sub>A soft palette, serious research, and code built to be useful.</sub>
 
 </div>
