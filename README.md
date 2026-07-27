@@ -169,13 +169,12 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 </div>
 
 ---
-
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=oumas3&amp;hide_border=true&amp;background=191724&amp;ring=EB6F92&amp;fire=F6C177&amp;currStreakLabel=EB6F92&amp;sideLabels=E0DEF4&amp;currStreakNum=E0DEF4&amp;sideNums=E0DEF4&amp;dates=908CAA&amp;stroke=6E6A86" width="68%" alt="GitHub contribution streak"/>
+<a href="https://github.com/oumas3">
+  <img src="./profile/streak.svg" width="68%" alt="Oumaima's total contributions, current streak, and longest streak"/>
 </a>
 
 <br/><br/>
