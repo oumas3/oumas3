@@ -170,12 +170,19 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 
 ---
 
-## 📊 GitHub, in bloom
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oumas3&show_icons=true&hide_border=true&bg_color=fff7fa&title_color=8e5572&icon_color=b76e79&text_color=3d314a&ring_color=d8a7b1" width="49%" alt="Oumaima's GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumas3&layout=compact&hide_border=true&bg_color=fff7fa&title_color=8e5572&text_color=3d314a" width="45%" alt="Oumaima's most used languages"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=oumas3&amp;hide_border=true&amp;background=191724&amp;ring=EB6F92&amp;fire=F6C177&amp;currStreakLabel=EB6F92&amp;sideLabels=E0DEF4&amp;currStreakNum=E0DEF4&amp;sideNums=E0DEF4&amp;dates=908CAA&amp;stroke=6E6A86" width="68%" alt="GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/oumas3/applylens-ai">
+  <img src="https://img.shields.io/github/last-commit/oumas3/applylens-ai?style=for-the-badge&amp;logo=github&amp;label=ApplyLens%20last%20commit&amp;labelColor=3D314A&amp;color=B76E79" alt="ApplyLens latest commit"/>
+</a>
 
 </div>
 
@@ -183,7 +190,7 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 
 <div align="center">
 
-### Let's create thoughtful AI 🌷
+### Let's create together 🌷
 
 I'm open to **research collaborations, PhD opportunities, and applied AI projects**.
 
