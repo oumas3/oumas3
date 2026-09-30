@@ -4,7 +4,8 @@
 
 # Hi, I'm Oumaima 🌸
 
-### AI & NLP Researcher · Software Engineer · MSc in Data Science
+### AI & Software Engineer · NLP Researcher
+MSc in Data Science & Analytics
 
 *Researching language. Engineering useful AI.*
 
@@ -32,25 +33,29 @@
 
 ---
 
-## ✦ A little about my work
+## About my work
 
-I explore how **language technology and machine learning** can solve meaningful real-world problems, especially when data is multilingual, noisy, or limited. My work moves between research experiments and complete software systems—from model design and evaluation to APIs and user-facing applications.
+I recently completed an **MSc in Data Science & Analytics**. I build Python applications and work on NLP experiments, especially with multilingual, noisy, or limited data. I enjoy both sides of the process: understanding how a model behaves and building the software that makes it useful.
 
-> 🌷 Currently building **[ApplyLens AI](https://github.com/oumas3/applylens-ai)**, an evidence-based assistant for understanding academic opportunities, checking eligibility, and organizing applications.
+My research interests include **Moroccan Darija, code-switched text, and model evaluation**.
+
+> **Currently seeking a full-time junior AI, Python, or software engineering role.** I'm also interested in funded NLP/ML research positions and PhD opportunities.
+
+I'm currently building **[ApplyLens AI](https://github.com/oumas3/applylens-ai)**, a workspace for reviewing academic opportunities against candidate evidence and organizing applications.
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🔬 Research
+### Research
 Low-resource NLP<br/>
 Multilingual models<br/>
-Responsible AI
+Model evaluation
 
 </td>
 <td width="33%" align="center">
 
-### 🧠 Intelligence
+### AI & Models
 Transformers<br/>
 Deep learning<br/>
 Generative models
@@ -58,10 +63,10 @@ Generative models
 </td>
 <td width="33%" align="center">
 
-### 💻 Engineering
-FastAPI & React<br/>
-ML pipelines<br/>
-Research prototypes
+### Engineering
+Python & FastAPI<br/>
+React & TypeScript<br/>
+Document processing
 
 </td>
 </tr>
@@ -69,24 +74,27 @@ Research prototypes
 
 ---
 
-## 🌸 Research corner
+## Research
 
 - **Master's research:** depression-severity classification in Moroccan Darija using XLM-R and character-aware modeling for Arabizi.
-- **Language & speech:** multilingual NLP, emotion-aware summarization, speaker verification, and adversarial evaluation.
-- **Applied intelligence:** neuro-symbolic reasoning, explainable decision systems, and AI tools designed around real user needs.
-- **Current direction:** turning research ideas into reproducible experiments and polished, usable products.
+- **Language and speech projects:** emotion-aware summarization, speaker verification, and adversarial evaluation.
+- **Other academic work:** ontology-based reasoning and interpretable decision systems.
+
+I'm working on making my experiments easier to reproduce and documenting their methods, results, and limitations clearly.
 
 ---
 
-## ✦ Selected projects
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 ApplyLens AI
+### ApplyLens AI
 
-An evidence-based workspace that turns Master's and PhD calls into eligibility decisions, comparisons, and application checklists.
+A workspace that helps Master's and PhD candidates review eligibility evidence, identify missing information, compare opportunities, and track application tasks.
+
+Includes automated tests, CI configuration, and a synthetic evaluation. Default analysis uses deterministic rules and lexical retrieval; external embeddings and pgvector retrieval are optional.
 
 `React` `TypeScript` `FastAPI` `Python`
 
@@ -95,9 +103,9 @@ An evidence-based workspace that turns Master's and PhD calls into eligibility d
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Hybrid CVAE + DDPM
+### CVAE + DDPM Experiments
 
-A generative and classification pipeline for plant-disease image recognition, combining representation learning with diffusion models.
+Research notebooks exploring CVAE and diffusion-based image generation alongside plant-disease classification.
 
 `PyTorch` `CVAE` `DDPM` `Computer Vision`
 
@@ -108,22 +116,22 @@ A generative and classification pipeline for plant-disease image recognition, co
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Adversarial TD-SV
+### Speaker Verification & Adversarial Evaluation
 
-An evaluation of embedding-level adversarial attacks on text-dependent speaker-verification systems.
+Notebook-based experiments evaluating embedding-level adversarial perturbations in ECAPA-TDNN and WavLM speaker-verification systems.
 
-`PyTorch` `ECAPA--TDNN` `WavLM` `Speech AI`
+`PyTorch` `ECAPA-TDNN` `WavLM`
 
 [![Repository](https://img.shields.io/badge/explore_repository-8E5572?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/TDSV_SYSTEMS_ECAPA_WAVLM)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Hybrid Fraud Reasoning
+### Hybrid Fraud Reasoning
 
-A bank-fraud detection system combining machine learning with RDF ontologies, rule-based reasoning, and SPARQL.
+A collaborative academic project combining RDF/OWL ontologies, Python rules, and SPARQL in a Streamlit interface for simulated banking transactions.
 
-`Python` `RDF` `SPARQL` `Machine Learning`
+`Python` `RDF/OWL` `SPARQL` `Streamlit`
 
 [![Repository](https://img.shields.io/badge/explore_repository-B76E79?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/Hybrid-Reasoning-for-Bank-Fraud-Detection-with-RDF-Ontology-Conditional-Python-and-SPARQL)
 
@@ -133,14 +141,15 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 
 <div align="center">
 
-[![Emotion-aware summarization](https://img.shields.io/badge/📄_Emotion--aware_summarization-D8A7B1?style=flat-square&labelColor=3D314A)](https://github.com/oumas3/emotion_imp)
-[![Siamese learning](https://img.shields.io/badge/😊_Siamese_metric_learning-D8A7B1?style=flat-square&labelColor=3D314A)](https://github.com/oumas3/siamese_net_implementation)
+[Emotion-aware summarization](https://github.com/oumas3/emotion_imp)
+·
+[Siamese metric learning](https://github.com/oumas3/siamese_net_implementation)
 
 </div>
 
 ---
 
-## 🛠 Research & coding toolkit
+## Tools I use
 
 <div align="center">
 
@@ -158,7 +167,7 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-D8A7B1?style=flat-square&logo=huggingface&logoColor=3D314A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3D314A?style=flat-square&logo=scikitlearn&logoColor=FFD9E2)
 
-**Building & shipping**
+**Application engineering**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-8E5572?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-B76E79?style=flat-square&logo=react&logoColor=white)
@@ -169,7 +178,8 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 </div>
 
 ---
-📊 GitHub Activity
+
+## GitHub Activity
 
 <div align="center">
 
@@ -189,9 +199,10 @@ A bank-fraud detection system combining machine learning with RDF ontologies, ru
 
 <div align="center">
 
-### Let's create together 🌷
+### Let's connect
 
-I'm open to **research collaborations, PhD opportunities, and applied AI projects**.
+I'm open to **full-time junior engineering roles, funded NLP/ML research and PhD opportunities, and research collaborations**.
 
+[LinkedIn](https://linkedin.com/in/oumaima-o-5009741b4) · [Email](mailto:ouayresbusiness@gmail.com)
 
 </div>
