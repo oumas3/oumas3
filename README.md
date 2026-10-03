@@ -76,7 +76,7 @@ Document processing
 
 ## Research
 
-- - **Master's research:** [Character-aware XLM-R for depression-severity text classification in Moroccan Darija](https://github.com/oumas3/darijadep-character-aware-nlp), comparing character embedding injection and gated adapters for Arabizi and code-switched text.
+- **Master's research:** [Character-aware XLM-R for depression-severity text classification in Moroccan Darija](https://github.com/oumas3/darijadep-character-aware-nlp), comparing character embedding injection and gated adapters for Arabizi and code-switched text.
 - **Language and speech projects:** emotion-aware summarization, speaker verification, and adversarial evaluation.
 - **Other academic work:** ontology-based reasoning and interpretable decision systems.
 
