@@ -157,8 +157,9 @@ A collaborative academic project combining RDF/OWL ontologies, Python rules, and
 
 ![Python](https://img.shields.io/badge/Python-3D314A?style=flat-square&logo=python&logoColor=FFD9E2)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8E5572?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-B76E79?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-D8A7B1?style=flat-square&logo=postgresql&logoColor=3D314A)
+![JavaScript](https://img.shields.io/badge/JavaScript-B76E79?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D8A7B1?style=flat-square&logo=openjdk&logoColor=3D314A)
+![SQL](https://img.shields.io/badge/SQL-3D314A?style=flat-square&logo=postgresql&logoColor=FFD9E2)
 
 **AI & research**
 
@@ -166,16 +167,26 @@ A collaborative academic project combining RDF/OWL ontologies, Python rules, and
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-B76E79?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-D8A7B1?style=flat-square&logo=huggingface&logoColor=3D314A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3D314A?style=flat-square&logo=scikitlearn&logoColor=FFD9E2)
+![Jupyter](https://img.shields.io/badge/Jupyter-8E5572?style=flat-square&logo=jupyter&logoColor=white)
 
-**Application engineering**
+**Web & application development**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-8E5572?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-B76E79?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D8A7B1?style=flat-square&logo=html5&logoColor=3D314A)
+![CSS](https://img.shields.io/badge/CSS-3D314A?style=flat-square&logo=css&logoColor=FFD9E2)
+![Streamlit](https://img.shields.io/badge/Streamlit-8E5572?style=flat-square&logo=streamlit&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-B76E79?style=flat-square&logo=odoo&logoColor=white)
+
+**Database & development tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3D314A?style=flat-square&logo=postgresql&logoColor=FFD9E2)
 ![Docker](https://img.shields.io/badge/Docker-D8A7B1?style=flat-square&logo=docker&logoColor=3D314A)
 ![Git](https://img.shields.io/badge/Git-8E5572?style=flat-square&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-B76E79?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
+
 
 ---
 
