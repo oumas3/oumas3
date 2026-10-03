@@ -25,7 +25,7 @@ MSc in Data Science & Analytics
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=oumas3&label=profile+views&color=B76E79&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Open%20to-Junior%20AI%20%26%20Software%20Roles-B76E79?style=flat-square" alt="Open to junior AI and software roles"/>
   <img src="https://img.shields.io/github/followers/oumas3?label=followers&style=flat-square&color=8E5572&logo=github" alt="GitHub followers"/>
 </p>
 
@@ -76,7 +76,7 @@ Document processing
 
 ## Research
 
-- **Master's research:** depression-severity classification in Moroccan Darija using XLM-R and character-aware modeling for Arabizi.
+- - **Master's research:** [Character-aware XLM-R for depression-severity text classification in Moroccan Darija](https://github.com/oumas3/darijadep-character-aware-nlp), comparing character embedding injection and gated adapters for Arabizi and code-switched text.
 - **Language and speech projects:** emotion-aware summarization, speaker verification, and adversarial evaluation.
 - **Other academic work:** ontology-based reasoning and interpretable decision systems.
 
