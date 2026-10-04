@@ -118,8 +118,7 @@ Research notebooks exploring CVAE and diffusion-based image generation alongside
 
 ### Speaker Verification & Adversarial Evaluation
 
-Notebook-based experiments evaluating embedding-level adversarial perturbations in ECAPA-TDNN and WavLM speaker-verification systems.
-
+A comparative study of ECAPA-TDNN and WavLM speaker embeddings under gradient-based perturbations, evaluated through cosine similarity and equal error rate.
 `PyTorch` `ECAPA-TDNN` `WavLM`
 
 [![Repository](https://img.shields.io/badge/explore_repository-8E5572?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/TDSV_SYSTEMS_ECAPA_WAVLM)
