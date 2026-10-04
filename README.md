@@ -100,16 +100,17 @@ Includes automated tests, CI configuration, and a synthetic evaluation. Default 
 
 [![Repository](https://img.shields.io/badge/explore_repository-B76E79?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/applylens-ai)
 
-</td>
 <td width="50%" valign="top">
 
-### CVAE + DDPM Experiments
+### DarijaDep · MSc Research
 
-Research notebooks exploring CVAE and diffusion-based image generation alongside plant-disease classification.
+Depression-severity text classification in Moroccan Darija and Arabizi, comparing XLM-R with character-aware embeddings and gated adapters.
 
-`PyTorch` `CVAE` `DDPM` `Computer Vision`
+Includes model architectures, documented test results, and a reproducibility audit.
 
-[![Repository](https://img.shields.io/badge/explore_repository-8E5572?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/CVAE_DDPM_PLANT_IDENTIFICATION)
+`Python` `PyTorch` `XLM-R` `Multilingual NLP`
+
+[![Repository](https://img.shields.io/badge/explore_repository-8E5572?style=flat-square&logo=github&logoColor=white)](https://github.com/oumas3/darijadep-character-aware-nlp)
 
 </td>
 </tr>
